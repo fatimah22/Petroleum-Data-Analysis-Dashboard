@@ -2,9 +2,8 @@
 ## Project Overview
 
 This project presents a comprehensive data analysis of Saudi Arabia's petroleum sector, focusing on production trends, consumption patterns, export volumes, and reserves analysis. Leveraging Power BI, SQL Server, and advanced data modeling techniques, the dashboard delivers actionable insights to support strategic decision-making in the energy sector.
-##Objectives
+## Objectives
 Clean and prepare petroleum datasets for analysis.
-
 Build reusable SQL queries and views for reporting.
 
 Create a structured data model for dashboarding.
