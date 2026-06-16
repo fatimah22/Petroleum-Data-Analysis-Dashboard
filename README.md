@@ -1,5 +1,5 @@
 # Petroleum-Data-Analysis-Dashboard
-##Project Overview
+## Project Overview
 
 This project presents a comprehensive data analysis of Saudi Arabia's petroleum sector, focusing on production trends, consumption patterns, export volumes, and reserves analysis. Leveraging Power BI, SQL Server, and advanced data modeling techniques, the dashboard delivers actionable insights to support strategic decision-making in the energy sector.
 ##Objectives
@@ -13,7 +13,7 @@ Analyze trends in production, exports, refining activity, and demand.
 
 Present findings through an interactive Power BI dashboard.
 
-##Tools Used
+## Tools Used
 SQL Server — data cleaning, transformation, joins, views, and analysis.
 
 Power BI — data modeling, DAX measures, KPI tracking, and interactive dashboards.
@@ -29,7 +29,7 @@ The dataset includes petroleum-related indicators such as:
 ▸Product demand
 ▸Reserves
 
-##Project Workflow
+## Project Workflow
 
 1. Data Preparation in SQL
 The raw data was prepared in SQL Server by:
@@ -53,3 +53,20 @@ The dashboard was designed to highlight:
    ▸ Refinery intake and direct use distribution
    ▸ Demand trends by product
    ▸ Reserve-related indicators
+
+## Skills Demonstrated
+SQL data cleaning and transformation
+
+Query writing and data aggregation
+
+Data modeling
+
+DAX measure creation
+
+Dashboard design
+
+Trend analysis
+
+KPI reporting
+
+Business insight communication   
