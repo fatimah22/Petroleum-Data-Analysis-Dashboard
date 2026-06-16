@@ -14,11 +14,11 @@ Analyze trends in production, exports, refining activity, and demand.
 Present findings through an interactive Power BI dashboard.
 
 ## Tools Used
-SQL Server — data cleaning, transformation, joins, views, and analysis.
+**SQL Server** — data cleaning, transformation, joins, views, and analysis.
 
-Power BI — data modeling, DAX measures, KPI tracking, and interactive dashboards.
+**Power BI** — data modeling, DAX measures, KPI tracking, and interactive dashboards.
 
-Excel / CSV — source data format.
+**Excel / CSV**— source data format.
 
 ## Dataset Scope
 The dataset includes petroleum-related indicators such as:
@@ -91,5 +91,16 @@ The dashboard was designed to highlight:
  ▸ Trend analysis
 
  ▸ KPI reporting
+
+ ---
+
+## About the Analyst
+
+Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
+I specialize in Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
+
+- 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
+- 📧 Contact: feel free to connect with me on LinkedIn
 
  ▸ Business insight communication   
