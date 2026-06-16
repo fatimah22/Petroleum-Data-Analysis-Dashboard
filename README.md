@@ -20,7 +20,7 @@ Power BI — data modeling, DAX measures, KPI tracking, and interactive dashboar
 
 Excel / CSV — source data format.
 
-##Dataset Scope
+## Dataset Scope
 The dataset includes petroleum-related indicators such as:
 
 ▸Crude oil production
@@ -78,18 +78,18 @@ The dashboard was designed to highlight:
    ▸ Reserve-related indicators
 
 ## Skills Demonstrated
-SQL data cleaning and transformation
+ ▸ SQL data cleaning and transformation
 
-Query writing and data aggregation
+ ▸ Query writing and data aggregation
 
-Data modeling
+ ▸ Data modeling
 
-DAX measure creation
+ ▸ DAX measure creation
 
-Dashboard design
+ ▸ Dashboard design
 
-Trend analysis
+ ▸ Trend analysis
 
-KPI reporting
+ ▸ KPI reporting
 
-Business insight communication   
+ ▸ Business insight communication   
