@@ -92,15 +92,13 @@ The dashboard was designed to highlight:
 
  ▸ KPI reporting
 
- ---
-
 ## About the Analyst
 
 Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
-I specialize in Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
+I specialize in SQL, DAX, Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
 
 - 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
 - 📧 Contact: feel free to connect with me on LinkedIn
 
- ▸ Business insight communication   
+
